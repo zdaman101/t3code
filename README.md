@@ -1,3 +1,13 @@
+> **This is a fork.** The original [T3 Code](https://github.com/pingdotgg/t3code) is built by
+> T3 Tools Inc. and is MIT licensed — see [LICENSE](./LICENSE), which is unmodified here.
+>
+> This fork is maintained by [@zdaman101](https://github.com/zdaman101) to add a pull-request
+> automation workflow on top of the app's existing plumbing. It tracks upstream closely and
+> carries no changes intended for general use.
+>
+> **If you're looking for T3 Code itself, go [upstream](https://github.com/pingdotgg/t3code)** —
+> it is the maintained project, and issues with this fork are not theirs to answer.
+
 # T3 Code
 
 T3 Code is an "agent harness control surface". It enables control of the agents on your machine with a best-in-class mobile app ([iOS](https://apps.apple.com/us/app/t3-code-remote-claude-more/id6787819824), [Android](https://play.google.com/store/apps/details?id=com.t3tools.t3code)), [web app](https://app.t3.codes) and [Electron-based desktop app](https://t3.codes).
